@@ -1,15 +1,15 @@
 Completed learning C Programming Basics
 
-Topics covered - Data types
-                 variables and constants
-                 Basic input/output 
-                 Operators
-                 Control flow structures(if statements, loops, switch statements)
-                 Functions
-                 Arrays
-                 Pointers
-                 Memory management
-                 Basic error handling
+Topics covered - Data types/
+                 variables and constants/
+                 Basic (input/output)/
+                 Operators/
+                 Control flow structures(if statements, loops, switch statements)/
+                 Functions/
+                 Arrays/
+                 Pointers/
+                 Memory management/
+                 Basic error handling/
 
 Tried solving practice questions:
 
