@@ -23,7 +23,7 @@ Topics covered - Data types/ variables and constants/ Basic (input/output)/ Oper
    <img src="https://github.com/MabelChristy/programming/blob/main/positive%20or%20negative%20integerifstatement.png">
 
 - [x] Write a C program to find the factorial of a given number using a while loop.
-   <img src="/c/codedResultsScreenshots/factorial.jpg">
+   <img src="https://github.com/MabelChristy/programming/blob/main/factorial%20of%20a%20num(while%20loop).png">
 
 - [x] Write a C program to input a number (1-7) from the user and print the corresponding day of the week using a switch statement.
    <img src="https://github.com/MabelChristy/programming/blob/main/weekDays_1.png">
